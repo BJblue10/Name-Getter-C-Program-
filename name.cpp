@@ -5,8 +5,8 @@ using namespace std;
 int main() {
    string userName;
    
-   cin >> userName;
-   cout << ""; 
+   cin >> userName; // Get User Name 
+   cout << ""; // Get User Name 
 
    cout << "Hey " <<userName << "!" << endl;
    cout << "Welcome!" << endl;
